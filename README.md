@@ -1,6 +1,5 @@
  # Hi, I'm TIZIH MARK MARKO
 
-[![Website](https://img.shields.io/badge/Website-YourPortfolio.com-blue?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
 
@@ -33,8 +32,6 @@ I'm a Computer Engineering Student at the National Higher Polytechnique Institut
 ## 📈 My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TIZIHMARKP&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?TIZIHMARKP=TIZIHMARKP&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
